@@ -106,8 +106,8 @@ h2 {
 
 /*ESTILIZAÇÃO DOS BOTÕES*/
 .link-container {
-    background-color: #ec9f0f;
-    background-image: radial-gradient(#b10000 0.5px, transparent 0.5px);
+    background-color: #ec0f0f;
+    background-image: radial-gradient(#e24c4c 0.5px, transparent 0.5px);
     background-size: 5px 5px;
     border-radius: 40px;
     /*ALTERA A LARGURA DOS BOTÕES*/
@@ -201,7 +201,7 @@ h2 {
     width: 200px;
     padding: 20px;
     height: 90px;
-    background-color: #ec9f0f;
+    background-color: #ec0f0f;
     background-image: radial-gradient(#b10000 0.5px, transparent 0.5px);
     background-size: 5px 5px;
     border-radius: 10px 10px 0px 0px;
